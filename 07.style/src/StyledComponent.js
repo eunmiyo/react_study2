@@ -38,7 +38,7 @@ const Button = styled.button`
       `}
         &+button {
             margin-left: 1rem;
-        }
+        } 
     `;
 
 const StyledComponent = () => {
