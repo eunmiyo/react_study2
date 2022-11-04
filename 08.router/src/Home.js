@@ -1,6 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+//http://localhost:3000/teste?test=111&etet=22
+
 const Home = () => {
   return (
     <div>

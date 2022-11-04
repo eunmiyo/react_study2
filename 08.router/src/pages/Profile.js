@@ -1,5 +1,8 @@
 import { useParams } from 'react-router-dom';
 
+//http://localhost:3000/profiles/eunmi
+////http://localhost:3000/profiles/haseo
+
 const data = {
   eunmi: {
     name: '전은미',
